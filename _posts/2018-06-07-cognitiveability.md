@@ -4,7 +4,7 @@ date: 2018-06-07
 tags: [psychology, workplace]
 header:
     image: "/images/alejandro-escamilla-1.jpg"
-excerpt: "mployee selection is an essential process that all organizations undergo, but due to its expensive and time-consuming nature it is…"
+excerpt: "Employee selection is an essential process that all organizations undergo, but due to its expensive and time-consuming nature it is…<em>Continue Reading</em>"
 ---
 
 <p>Employee selection is an essential process that all organizations undergo, but due to its expensive and time-consuming nature it is imperative that the most optimal predictors are used. Although there are many other job performance predictors researched such as personality, age, education, or interest, industrial-organizational psychologists have found them not as strong and consistent as cognitive ability tests and structured interviews (Hunter and Hunter 1984). Unfortunately, most organizations fail to utilize both reliable predictors in tandem leading to missed opportunities. This entry summarizes some of the many findings, major takeaways, and future direction in the research of the validity of two predictors under the criterion of job performance.</p>

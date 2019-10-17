@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Analyics Portfolio"
+  - title: "Data Analytics Portfolio"
     url: /data-analytics-portfolio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
